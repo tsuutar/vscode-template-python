@@ -1,2 +1,2 @@
 # vscode-template-python
-Python Template
+VSCode用Pythonテンプレート
