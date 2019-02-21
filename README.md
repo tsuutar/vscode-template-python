@@ -4,7 +4,7 @@
 
 ```
 $ python -m venv .venv
-$ .venv\Scripts\Activate.ps1
+$ .venv\Scripts\Activate.bat
 $ pip install -r requirements.txt
 ```
 
